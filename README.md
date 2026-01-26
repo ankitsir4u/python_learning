@@ -1,2 +1,2 @@
 # python_learning
-python learning repository for practice, concepts, and projects
+This repository contains my python learning journey, practice programs , and projects.
